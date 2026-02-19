@@ -15,5 +15,5 @@ jobs:
         with:
           repo: ${{ github.repository }}
           ref: ${{ github.ref_name }}
-          # notebook_dirs: '["R"]' # Attempt to run R code on the Hub
+          notebook_dirs: '["R"]' # Attempt to run R code on the Hub
           token: ${{ secrets.JUPYTERHUB_API_TOKEN }}
