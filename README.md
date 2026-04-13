@@ -9,6 +9,9 @@
 status](https://www.r-pkg.org/badges/version/sweater)](https://CRAN.R-project.org/package=sweater)
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.04036/status.svg)](https://doi.org/10.21105/joss.04036)
 [![R-CMD-check](https://github.com/gesistsa/sweater/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gesistsa/sweater/actions/workflows/R-CMD-check.yaml)
+
+
+[![Runs on Jupyter4NFDI](https://github.com/apawlik/sweater/actions/workflows/jupyter4nfdi_ready_check.yml/badge.svg)](https://github.com/apawlik/sweater/actions/workflows/jupyter4nfdi_ready_check.yml)
 <!-- badges: end -->
 
 The goal of sweater (**S**peedy **W**ord **E**mbedding **A**ssociation
